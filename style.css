@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html{
+  font-size:62.5%;
+}
+body{
+  background-color: #F9FAFE;
+}
+*{
+  font-family: "Raleway",sans-serif;
+  font-size: 1.6rem;
+  color:inherit;
+  text-overflow: ellipsis;
+
+}
+
+header{
+  margin-top: 2rem;
+}
+
+main{
+  margin-top: 2rem;
+}
+section{
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+article {
+  border-radius: 20px;
+  margin: 0 0 1rem 0;
+}
+.description{
+  text-align: justify;
+}
+
+img.profil{
+  margin-bottom: 2rem;
+  width:75%;
+  height:75%;
+}
+li.logo{
+  margin-bottom:1rem;
+}
+img.logo{
+  height:4rem;
+}
+p{
+  margin: 5px;
+  overflow: hidden;
+}
+a{
+  color:#00B4FF;
+  font-weight:medium;
+}
+
+a:hover{
+  color:#00A3E7;
+}
+ul{
+  padding-inline-start:0rem;
+}
+li{
+  list-style-type: none;
+}
+
+li.title{
+  font-weight:bold;
+
+}
+
+h1{
+  font-size: 3.5rem;
+  font-weight: medium;
+  color: inherit;
+  padding: 1rem;
+}
+
+h2{
+  font-size: 3.5rem;
+  font-weight: bold;
+  background-color: #00B4FF;
+  color:white;
+  text-align: center;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  padding:0.5rem;
+}
+
+h3 {
+  font-size: 3rem;
+  color: #006E9C;
+  max-width: 100%;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+h3::before{
+  content:"- ";
+}
+h3::after{
+  content:" -";
+}
+
+h4{
+  font-size: 2rem;
+  font-weight: bold;
+  color:black;
+  padding-left: 2.5rem;
+  margin-top: 0.
+}
+.more-experience{
+  margin: 0 0 1.5rem 0;
+}
+
+h5{
+  font-size: 1.8rem;
+  font-weight: 500;
+  color:black;
+  padding-left: 2.5rem;
+}
+
+h6{
+  font-size: 1.5rem;
+  font-weight:450;
+  color:#515151;
+  font-style: italic;
+  padding-left: 2.5rem;
+
+}
+.content-section {
+  min-height: 200rem;
+  position: relative;
+}
+
+.sidebar-item {
+/*	position: absolute;
+	top: 0;
+	left: 0; */
+	width: 100%;
+	height: 100%;
+  border-radius:1rem;
+  text-align: center;
+  background-color: #515151;
+  color:white;
+
+}
+
+.sidebar-sticky {
+	position: sticky;
+	top: 0;
+  padding: 20px;
+}
+.tooltip-inner{
+  background-color: #FFFFFF;
+  font-size: 1.5rem;
+  color:#000000;
+  border:0.1rem solid #000000;
+  border-radius:1rem;
+}
+i.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 0.4rem;
+  margin: 0 0 0 0.5rem;
+transition-duration: 0.3s;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+
+}
+.collapsed .arrow{
+  -webkit-transform: rotate(-135deg);
+
+  transform: rotate(-135deg);
+}
+
+.collapsed .more-experience::after{
+  display: block;
+  content:"...";
+}

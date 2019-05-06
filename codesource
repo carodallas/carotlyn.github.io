@@ -1,0 +1,295 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="fr-FR" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+	<meta name="theme-color" content="#af1e23">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Accueil - Le French Riz</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.lefrenchriz.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen/js/html5.js"></script>
+	<![endif]-->
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/js/riz.js"></script>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://www.lefrenchriz.com/" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:locale:alternate" content="de_DE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Accueil - Le French Riz" />
+<meta property="og:url" content="https://www.lefrenchriz.com/" />
+<meta property="og:site_name" content="Le French Riz" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Accueil - Le French Riz" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.lefrenchriz.com\/","name":"Le French Riz","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.lefrenchriz.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Le French Riz &raquo; Flux" href="https://www.lefrenchriz.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Le French Riz &raquo; Flux des commentaires" href="https://www.lefrenchriz.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.lefrenchriz.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.lefrenchriz.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.lefrenchriz.com/wp-content/themes/twentythirteen/style.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.lefrenchriz.com/wp-content/themes/twentythirteen/genericons/genericons.css?ver=3.03' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/style.css?ver=2013-07-18' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='https://www.lefrenchriz.com/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+            <script>
+                if (document.location.protocol != "https:") {
+                    document.location = document.URL.replace(/^http:/i, "https:");
+                }
+            </script>
+            <script type='text/javascript' src='https://www.lefrenchriz.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.lefrenchriz.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.lefrenchriz.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.lefrenchriz.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel='shortlink' href='https://www.lefrenchriz.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.lefrenchriz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lefrenchriz.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.lefrenchriz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lefrenchriz.com%2F&#038;format=xml" />
+<link rel="alternate" href="https://www.lefrenchriz.com/" hreflang="fr" />
+<link rel="alternate" href="https://www.lefrenchriz.com/en/" hreflang="en" />
+<link rel="alternate" href="https://www.lefrenchriz.com/de/" hreflang="de" />
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>	<style type="text/css" id="twentythirteen-header-css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+			.site-header .home-link {
+			min-height: 0;
+		}
+		</style>
+	<link rel="icon" href="https://www.lefrenchriz.com/wp-content/uploads/2018/03/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.lefrenchriz.com/wp-content/uploads/2018/03/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.lefrenchriz.com/wp-content/uploads/2018/03/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.lefrenchriz.com/wp-content/uploads/2018/03/cropped-logo-270x270.png" />
+</head>
+
+<body data-rsssl=1 class="home page-template page-template-template-accueil page-template-template-accueil-php page page-id-225 single-author">
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+				<div class="menu-language-container"><ul id="languages_menu" class="menu"><li id="menu-item-307" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-307"><a href="#pll_switcher">FR</a>
+<ul class="sub-menu">
+	<li class="lang-item lang-item-6 lang-item-en menu-item menu-item-type-custom menu-item-object-custom menu-item-307-en"><a href="https://www.lefrenchriz.com/en/" hreflang="en-UK" lang="en-UK">EN</a></li>
+	<li class="lang-item lang-item-10 lang-item-de menu-item menu-item-type-custom menu-item-object-custom menu-item-307-de"><a href="https://www.lefrenchriz.com/de/" hreflang="de-DE" lang="de-DE">DE</a></li>
+</ul>
+</li>
+</ul></div>				<a class="logo" href="https://www.lefrenchriz.com">
+					<img class="logoheaderimg" class="logoheader" src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/images/logo3.png" alt="logo" />
+				</a>
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+				<button class="menu-toggle"><i class="material-icons">menu</i></button>
+				<div class="menu-le-french-riz-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-5" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5"><a href="https://www.lefrenchriz.com/carte">Carte</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-123"><a href="#">Nos produits</a>
+<ul class="sub-menu">
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://www.lefrenchriz.com/les-onigiri">Les Onigiri</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://www.lefrenchriz.com/les-accompagnements">Les Accompagnements</a></li>
+	<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://www.lefrenchriz.com/les-desserts">Les desserts</a></li>
+</ul>
+</li>
+<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-218"><a href="#">Le French Riz</a>
+<ul class="sub-menu">
+	<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="https://www.lefrenchriz.com/les-origines-du-french-riz">L&#8217;histoire</a></li>
+	<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="https://www.lefrenchriz.com/le-french-riz">Le restaurant</a></li>
+</ul>
+</li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://www.lefrenchriz.com/evenements">Événements</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="https://www.lefrenchriz.com/contact">Contact</a></li>
+</ul></div>				<!-- -->
+				</nav>
+				<aside class="socialnetwork">
+					<a href="https://www.instagram.com/lefrenchriz/" target="_blank"><img src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/images/instagram.png" alt="Icone Instagram" /></a>
+					<a href="https://www.facebook.com/lefrenchriz/" target="_blank"><img src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/images/facebook.png" alt="Icone Facebook" /></a>
+				</aside>
+				<!-- #site-navigation -->
+
+			<!-- #navbar -->
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+<div style="width: 100%; margin: 0 auto;" class="ml-slider-3-7-2 metaslider metaslider-flex metaslider-71 ml-slider">
+
+    <div id="metaslider_container_71">
+        <div id="metaslider_71">
+            <ul class="slides">
+                <li style="display: block; width: 100%;" class="slide-92 ms-image"><img src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/onigiri-1-1130x353.jpg" height="353" width="1130" alt="Photo d&#039;un plat d&#039;onigiri" class="slider-71 slide-92" title="Plat d&#039;onigiri" /></li>
+                <li style="display: none; width: 100%;" class="slide-93 ms-image"><img src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/EXTERIEUR-1130x353.jpg" height="353" width="1130" alt="Photo de la boutique du French Riz" class="slider-71 slide-93" title="Boutique du French Riz" /></li>
+                <li style="display: none; width: 100%;" class="slide-508 ms-image"><img src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/THE-1130x353.jpg" height="353" width="1130" alt="Photo d&#039;une théière " class="slider-71 slide-508" title="Pause thé" /></li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+	<div class="features">
+		<div class="menucarte">
+			<a href="https://www.lefrenchriz.com/carte">
+				<img src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/feature1.png" alt="Menu"/>
+			</a>
+			<aside>
+				<a href="https://www.lefrenchriz.com/carte">
+					<h4>Menu</h4>
+				</a>
+				<p>Retrouvez toutes nos formules et nos produits disponibles.</p>
+			</aside>
+		</div>
+		<div class="noustrouver">
+			<a href="">
+				<img src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/feature2.jpg" alt="Nous trouver" />
+			</a>
+			<aside>
+				<a href="">
+					<h4>Nous trouver</h4>
+				</a>
+				<p>Venez nous rendre visite :</p>
+<p><a href="https://www.google.fr/maps/place/Le+French+Riz/@48.5819155,7.7430593,15z/data=!4m2!3m1!1s0x0:0x4f008e1c4e3f77c3?sa=X&amp;ved=0ahUKEwij45-Hvr3aAhUHwBQKHXmKB6QQ_BIIkAEwCg">57 rue du Fossé-des-Tanneurs, 67000 Strasbourg</a></p>
+			</aside>
+		</div>
+		<div class="evenements">
+			<a href="https://www.lefrenchriz.com/evenements">
+				<img src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/feature3.png" alt="Événements." />
+			</a>
+			<aside>
+				<a href="https://www.lefrenchriz.com/evenements">
+					<h4>Événements</h4>
+				</a>
+				<p>Découvrez des menus et des produits réalisés exceptionnellement pour des événements spéciaux où vous pourrez nous retrouver.</p>
+			</aside>
+		</div>
+	</div>
+
+<div class="livraison">
+
+				<ul>
+			<li><img src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/images/chou.png" alt="Illustration Onigiri" /> Sur place</li>
+			<li><img src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/images/chou.png" alt="Illustration Onigiri" /> A emporter</li>
+			<li><img src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/images/chou.png" alt="Illustration Onigiri" /> Faites-vous livrer!</li>
+		</ul>
+		</div>
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="text-4" class="widget widget_text"><h3 class="widget-title">Contact</h3>			<div class="textwidget"><section class="tablewidget">
+<aside><img class="alignnone size-full wp-image-74" src="https://www.lefrenchriz.com/wp-content/uploads/2018/04/29855326_10211525062102441_1353923753_n.png" alt="" width="32" height="32" /></aside>
+<aside>contact@lefrenchriz.com</aside>
+</section>
+<section class="tablewidget">
+<aside><img class="alignnone size-full wp-image-205" src="https://www.lefrenchriz.com/wp-content/uploads/2018/04/phone.png" alt="" width="32" height="32" /></aside>
+<aside>03 90 40 76 96</aside>
+</section>
+<section class="tablewidget">
+<aside><img class="alignnone size-full wp-image-83" src="https://www.lefrenchriz.com/wp-content/uploads/2018/04/29920700_10211525062382448_1720963018_n.png" alt="" width="32" height="32" /></aside>
+<aside><a href="https://www.google.com/maps?ll=48.581916,7.743059&amp;z=15&amp;t=m&amp;hl=fr-FR&amp;gl=FR&amp;mapclient=embed&amp;cid=5692706181219317699">57 rue du Fossé-des-Tanneurs,</a><br />
+<a href="https://www.google.com/maps?ll=48.581916,7.743059&amp;z=15&amp;t=m&amp;hl=fr-FR&amp;gl=FR&amp;mapclient=embed&amp;cid=5692706181219317699">67000 Strasbourg</a></aside>
+</section>
+<p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2639.458697184887!2d7.740865251739097!3d48.58191547915963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4796c84cf8295555%3A0x4f008e1c4e3f77c3!2sLe+French+Riz!5e0!3m2!1sfr!2sfr!4v1523808560985" frameborder="0" allowfullscreen=""></iframe></p>
+</div>
+		</aside><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Horaires</h3>			<div class="textwidget"><section class="tablewidget align-top">
+<aside><img class="alignnone size-full wp-image-204" src="https://www.lefrenchriz.com/wp-content/uploads/2018/04/clock.png" alt="" width="32" height="32" /></aside>
+<aside>
+<p>Du lundi au vendredi:<br />
+11h30 &#8211; 15h30<br />
+17h &#8211; 21h</p>
+<p>Samedi : 12h &#8211; 21h</p>
+<p>Dimanche : fermé</p>
+</aside>
+</section>
+</div>
+		</aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Suivez-nous</h3>			<div class="textwidget"><aside class="socialnetwork"><a href="https://www.instagram.com/lefrenchriz/" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-299" src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/instagram.png" alt="Icone Instagram" width="24" height="24" /></a><a href="https://www.facebook.com/lefrenchriz/" target="_blank" rel="noopener"><img class="alignnone size-full wp-image-298" src="https://www.lefrenchriz.com/wp-content/uploads/2018/05/facebook.png" alt="Facebook" width="24" height="24" /></a></aside>
+</div>
+		</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+			<a href="#page" class="toTheTop"><img src="https://www.lefrenchriz.com/wp-content/themes/twentythirteen-child/images/onigiri2.png" alt="Onigiri To The Top" /></a>
+		</footer><!-- #colophon -->
+		<footer class="legal">
+			<aside>
+				Mentions légales
+			</aside>
+			<aside>
+				Designed by Coraline Aubry, Caroline Dalla Serra and Sophie Schild
+			</aside>
+		</footer>
+	</div><!-- #page -->
+
+	<link rel='stylesheet' id='metaslider-flex-slider-css'  href='https://www.lefrenchriz.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.7.2' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css'  href='https://www.lefrenchriz.com/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.7.2' type='text/css' media='all' property='stylesheet' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.lefrenchriz.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Merci de confirmer que vous n\u2019\u00eates pas un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-content/themes/twentythirteen/js/functions.js?ver=20160717'></script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.7.2'></script>
+<script type='text/javascript'>
+var metaslider_71 = function($) {
+            $('#metaslider_71').addClass('flexslider'); /* theme/plugin conflict avoidance */
+            $('#metaslider_71').flexslider({
+                slideshowSpeed:3500,
+                animation:"slide",
+                controlNav:true,
+                directionNav:false,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:1500,
+                prevText:"Previous",
+                nextText:"Next",
+                easing:"linear",
+                slideshow:true
+            });
+        };
+        var timer_metaslider_71 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_71, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_71, 1) : metaslider_71(window.jQuery);
+        };
+        timer_metaslider_71();
+</script>
+<script type='text/javascript' src='https://www.lefrenchriz.com/wp-content/plugins/ml-slider/assets/easing/jQuery.easing.min.js?ver=3.7.2'></script>
+</body>
+</html>
